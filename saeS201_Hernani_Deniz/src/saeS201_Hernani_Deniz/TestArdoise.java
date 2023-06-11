@@ -11,6 +11,8 @@ package saeS201_Hernani_Deniz;
  * Clic droit sur ardoise.jar (dossier libs) -> Build Path -> Add to Build Path
  */
 
+
+
 /**
  * Importation des classes
  * PointPlan
@@ -30,8 +32,8 @@ import ardoise.*;
  */
 public class TestArdoise {
 
-    public static void main(String []args ){
-        Ardoise ardoise = new Ardoise();
-        ardoise.test();
-    }
-}
+	public static void main(String[] args) {
+	    Ardoise ardoise = new Ardoise();
+	    ardoise.test();
+	    }
+	}

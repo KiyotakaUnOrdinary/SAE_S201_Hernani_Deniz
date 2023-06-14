@@ -56,7 +56,7 @@ public class Maison extends Forme {
 
     @Override
     public String typeForme() {
-        return "M";
+        return "GF";
     }
 
     @Override
